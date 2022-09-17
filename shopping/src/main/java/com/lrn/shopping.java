@@ -11,6 +11,7 @@ public class shopping {
     public String home()
     {
         String name = "My Name is sateeR";
+        String name3 = "My Name is Tarun"
         return name;
     }
 }
