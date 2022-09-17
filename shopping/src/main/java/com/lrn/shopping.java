@@ -10,7 +10,7 @@ public class shopping {
     @RequestMapping("/home/test/")
     public String home()
     {
-        String name = "My Name is Tarun";
+        String name = "My Name is satee";
         return name;
     }
 }
